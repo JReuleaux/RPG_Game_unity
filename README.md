@@ -1,5 +1,5 @@
 # RPG_Game_unity
-##This game / project is still being worked on##
+<br> This game / project is still being worked on </br>
 Unity learning project where i am trying to make an rpg game.
 This is done using C# for the coding and unity as the game engine.
 I've uploaded just the code files since there are to many files to upload.
